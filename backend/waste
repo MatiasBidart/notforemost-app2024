@@ -1,0 +1,23 @@
+// const valueToInsert = {
+//     author: 'John Doe',
+//     title: 'Sample Article'
+//   };
+
+
+
+
+//   const saveSingleValue = async (value) => {
+//     try {
+//       // Crear una instancia del modelo con el valor proporcionado
+//       const dataInstance = new Data(value);
+  
+//       // Guardar en la base de datos
+//       await dataInstance.save();
+//       console.log('Valor insertado correctamente en la base de datos');
+//     } catch (error) {
+//       console.error('Error al guardar el valor:', error);
+//     }
+//   };
+  
+//   // Llamar a la función para guardar un solo valor al iniciar la aplicación
+//   saveSingleValue(valueToInsert);
